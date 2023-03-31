@@ -1,0 +1,10 @@
+- action: TemplateClientAction
+  method: rel_picture_click
+  desc: 图片相对位置悬停
+  params:
+    el:
+    rel_x: 0
+    rel_y: 0
+    clicks: 1
+    button: left
+    isclick: false

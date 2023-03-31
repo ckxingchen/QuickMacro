@@ -1,0 +1,7 @@
+- action: TemplateClientAction
+  method: is_pic_exist
+  desc: 判断图片是否存在,返回bool类型
+  params:
+    el:
+    timeout: 3
+  result:

@@ -1,0 +1,7 @@
+- action: TemplateClientAction
+  method: moveto
+  desc: 鼠标相对位置移动
+  params:
+    posx: 0
+    posy: 0
+    rel: true

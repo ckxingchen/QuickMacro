@@ -1,0 +1,5 @@
+- action: TemplateClientAction
+  method: keyboard_write
+  desc: 键盘输入非中文文本
+  params:
+    content:

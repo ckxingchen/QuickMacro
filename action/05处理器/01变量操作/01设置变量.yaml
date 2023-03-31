@@ -1,0 +1,7 @@
+- action: VariableAction
+  method: set_variable
+  desc: 设置变量
+  params:
+    name:
+    value:
+

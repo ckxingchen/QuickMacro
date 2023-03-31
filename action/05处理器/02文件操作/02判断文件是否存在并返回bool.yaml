@@ -1,0 +1,6 @@
+- action: FileOper
+  method: is_file_exist
+  desc: 判断文件是否存在并返回bool
+  params:
+    file_path:           #文件完整路径
+    result: is_exist

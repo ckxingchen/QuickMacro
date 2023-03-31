@@ -1,0 +1,7 @@
+- action: TemplateClientAction
+  method: mouse_up
+  desc: 鼠标指定位置抬起
+  params:
+    posx:
+    posy:
+    button: left

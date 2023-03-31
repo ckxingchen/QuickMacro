@@ -1,0 +1,7 @@
+- action: Yolov5ClientAction
+  method: yolov5_serve_post
+  desc: 获取Yolov5图像识别结果
+  params:
+    weight:
+    timeout: 3
+    result: el_list

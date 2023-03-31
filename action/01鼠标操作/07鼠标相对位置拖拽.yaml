@@ -1,0 +1,8 @@
+- action: TemplateClientAction
+  method: dragto
+  desc: 鼠标相对位置拖拽
+  params:
+    posx: 0
+    posy: 0
+    button: left
+    rel: true

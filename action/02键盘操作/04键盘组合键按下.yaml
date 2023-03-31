@@ -1,0 +1,5 @@
+- action: TemplateClientAction
+  method: hotkey
+  desc: 键盘组合键按下
+  params:
+    keys: []

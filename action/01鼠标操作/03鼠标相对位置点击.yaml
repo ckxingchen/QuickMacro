@@ -1,0 +1,8 @@
+- action: TemplateClientAction
+  method: rel_mouse_click
+  desc: 鼠标相对位置点击
+  params:
+    rel_x: 0
+    rel_y: 0
+    clicks: 1
+    button: left

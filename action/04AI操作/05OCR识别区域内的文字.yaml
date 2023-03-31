@@ -1,0 +1,7 @@
+- action: OcrClientAction
+  method: ocr_from_server
+  desc: OCR识别区域内的文字
+  params:
+    left_top:
+    right_down:
+    result:

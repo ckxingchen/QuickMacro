@@ -1,0 +1,5 @@
+- action: TimeAction
+  method: time_sleep
+  desc: 停止时间
+  params:
+    second: 2

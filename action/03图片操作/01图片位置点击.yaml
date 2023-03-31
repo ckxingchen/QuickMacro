@@ -1,0 +1,7 @@
+- action: TemplateClientAction
+  method: click_picture
+  desc: 图片点击操作
+  params:
+    el:
+    clicks: 1
+    button: left

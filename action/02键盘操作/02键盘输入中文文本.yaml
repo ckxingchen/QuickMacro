@@ -1,0 +1,6 @@
+- action: TemplateClientAction
+  method: input_string
+  desc: 键盘输入中文文本
+  params:
+    text:
+    clear: false

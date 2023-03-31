@@ -1,0 +1,6 @@
+- action: VariableAction
+  method: colloct_variable
+  desc: 收集变量返回字典
+  params:
+    name:
+    value:

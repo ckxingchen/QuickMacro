@@ -1,0 +1,6 @@
+- action: TemplateClientAction
+  method: mouse_click
+  desc: 鼠标当前位置点击
+  params:
+    clicks: 1
+    button: left

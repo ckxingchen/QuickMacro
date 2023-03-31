@@ -1,0 +1,5 @@
+- action: TemplateClientAction
+  method: press_up
+  desc: 键盘单个按键松开
+  params:
+    key:

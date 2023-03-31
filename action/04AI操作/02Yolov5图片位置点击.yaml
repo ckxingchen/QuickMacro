@@ -1,0 +1,10 @@
+- action: Yolov5ClientAction
+  method: yolov5_click_picture
+  desc: Yolov5图片位置点击
+  params:
+    el:
+    el_list:
+    clicks:
+    button: left
+    isclick: true
+    el_index: 0

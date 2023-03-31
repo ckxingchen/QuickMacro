@@ -1,0 +1,5 @@
+- action: FileOper
+  method: open_file
+  desc: 打开文件
+  params:
+    file_path:           #文件完整路径

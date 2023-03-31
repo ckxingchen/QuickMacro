@@ -1,0 +1,7 @@
+- action: TemplateClientAction
+  method: scroll
+  desc: 鼠标指定位置滑轮滚动
+  params:
+    amount_to_scroll:
+    move_x:
+    move_y:

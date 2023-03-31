@@ -1,0 +1,7 @@
+- action: TemplateClientAction
+  method: mouse_down
+  desc: 鼠标指定位置按下
+  params:
+    posx:
+    posy:
+    button: left

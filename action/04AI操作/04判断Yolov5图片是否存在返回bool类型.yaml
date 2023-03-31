@@ -1,0 +1,8 @@
+- action: Yolov5ClientAction
+  method: yolov5_is_pic_exist
+  desc: 判断Yolov5图片是否存在返回bool类型
+  params:
+    el:
+    el_list:
+    el_index: 0
+    result:
