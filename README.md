@@ -1,5 +1,9 @@
 # 自动办公助手使用说明
 
+## 工具下载
+
+链接：https://pan.baidu.com/s/1bvbbZ1j9iw1oviu6a_F6Cg 
+提取码：ckxc 
 
 ## 功能介绍
 
